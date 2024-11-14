@@ -290,30 +290,30 @@
 
 ### Plano de Comunicação do Projeto
 
-| Entregável                         | Público Alvo | Met. Comunicação | Frequência  | Responsável | 
-|------------------------------------|--------------|------------------|-------------|-------------|
-| Ata de reunião                     |              |                  |             |             |
-| Declaração de escopo               |              |                  |             |             |
-| WBS                                |              |                  |             |             |
-| Dicionário da WBS                  |              |                  |             |             |
-| Cronograma                         |              |                  |             |             |
-| Lista de Riscos                    |              |                  |             |             |
-| Plano de qualidade                 |              |                  |             |             |
-| Plano de projeto                   |              |                  |             |             |
-| Relatório de Progresso             |              |                  |             |             |
-| Relatório de Aderência ao Processo |              |                  |             |             |
-| Checklists de Inspeção             |              |                  |             |             |
-|                                    |              |                  |             |             |
-|                                    |              |                  |             |             |
-|                                    |              |                  |             |             |
+| Entregável                         | Público-Alvo | Método de Comunicação | Frequência  | Responsável | 
+|------------------------------------|--------------|-----------------------|-------------|-------------|
+| Ata de reunião                     |              |                       |             |             |
+| Declaração de escopo               |              |                       |             |             |
+| WBS                                |              |                       |             |             |
+| Dicionário da WBS                  |              |                       |             |             |
+| Cronograma                         |              |                       |             |             |
+| Lista de Riscos                    |              |                       |             |             |
+| Plano de qualidade                 |              |                       |             |             |
+| Plano de projeto                   |              |                       |             |             |
+| Relatório de Progresso             |              |                       |             |             |
+| Relatório de Aderência ao Processo |              |                       |             |             |
+| Checklists de Inspeção             |              |                       |             |             |
+|                                    |              |                       |             |             |
+|                                    |              |                       |             |             |
+|                                    |              |                       |             |             |
 
 > Legenda:
 > - Público: a quem se destina a comunicação.
-> - Método de Comunicação: e_mail, reunião presencial, reunião virtual, etc.
-> - Freqüência: diária, semanal, quinzenal, mensal, etc.
+> - Método de Comunicação: e-mail, reunião presencial, reunião virtual, etc.
+> - Frequência: diária, semanal, quinzenal, mensal, etc.
 > - Responsável: pessoa responsável pela comunicação.
 
-### Plano de Gerência de Comunicação
+### Plano de Gerência de Configuração
 
 > Indique:
 > - Ferramentas utilizadas no projeto - adicionar link de acesso às ferramentas
